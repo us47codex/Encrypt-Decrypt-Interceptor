@@ -1,7 +1,6 @@
 Encrypt-Decrypt-Interceptor
 ===================
 
-An [OkHttp interceptor][interceptors] which logs HTTP request and response data.
 
 ```kotlin
     val encryptionInterceptor = EncryptionInterceptor(
