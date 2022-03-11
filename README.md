@@ -1,7 +1,9 @@
 Encrypt-Decrypt-Interceptor
 ===================
 
-A powerful tool that allows you to monitor and encrypt and decrypt the http requests and responses between Android Application and Server.
+[![](https://jitpack.io/v/jkyeo/okhttp-basicparamsinterceptor.svg)](https://jitpack.io/#us47codex/Encrypt-Decrypt-Interceptor)
+
+A powerful tool that allows you to monitor and encrypt - decrypt the http requests and responses between Android Application and Server.
 
 ```kotlin
     val encryptionInterceptor = EncryptionInterceptor(
