@@ -1,7 +1,7 @@
 Encrypt-Decrypt-Interceptor
 ===================
 
-[![](https://jitpack.io/v/jkyeo/okhttp-basicparamsinterceptor.svg)](https://jitpack.io/#us47codex/Encrypt-Decrypt-Interceptor)
+[![](https://jitpack.io/v/us47codex/Encrypt-Decrypt-Interceptor.svg)](https://jitpack.io/#us47codex/Encrypt-Decrypt-Interceptor)
 
 A powerful tool that allows you to monitor and encrypt - decrypt the http requests and responses between Android Application and Server.
 
