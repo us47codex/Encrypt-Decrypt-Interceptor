@@ -8,7 +8,7 @@ A powerful tool that allows you to monitor and encrypt - decrypt the http reques
 * Encrypt and Decrypt the http request and response with AES/GCM/NoPadding.
 * It use IV of 16 Lenght and Tag of 12 Length and Algorithm Of AES.
 * Can enable logging of encrypted request and decrypted response.
-* Also added js code for encrypt and decrypt for reference.
+* Also added encrypt and decrypt js code for reference.
 
 ## Usage ##
 
